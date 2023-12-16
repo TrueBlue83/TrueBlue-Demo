@@ -1,7 +1,7 @@
 <%-- 
     Document   : welcome
     Created on : 23 Jul, 2018, 5:39:03 AM
-    Author     : aksarav
+    Author     : changed
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
@@ -41,7 +41,7 @@
             Dtime = Time.toString();
             %>
         
-        <h2> This is a Sample Web Application - Snoop Servlet  </h2>
+        <h2> This is a Sample Web Application - Servlet  </h2>
         <hr>
         
          <div>
